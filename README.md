@@ -43,3 +43,6 @@ The notebook is focused on analyzing a dataset related to a **coffee company** u
 - **Coffee B should be reconsidered** or **discontinued** due to poor revenue generation.
 - The **Enterprise segment needs strategic intervention** due to **negative revenue trends**.
 - **Seasonal trends should guide marketing efforts**, focusing on Q4 for maximizing sales.
+
+<img width="381" alt="Screenshot 2025-02-04 at 5 30 25 PM" src="https://github.com/user-attachments/assets/7b73ffab-badc-4541-9519-217af039c2cb" />
+
